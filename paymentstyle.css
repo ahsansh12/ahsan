@@ -1,0 +1,29 @@
+
+*{
+
+    text-align: center;
+}
+
+.s1 {
+    color:#95CD41;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.s2{
+    color:#FF1700;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.s3{
+    color:#FFE400;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+h2{
+    font-size: 3rem;
+    color:#090910;
+}
+
+.s4{
+color:#06FF00;
+}
